@@ -1,1 +1,12 @@
-# cs112-assignment-tictactoe
+
+PROJECT 2
+
+NAME: Chiara Lim
+
+DATE OF COMPLETION: 23rd March 2019
+
+PURPOSE OF PROJECT: TicTacToe Game
+
+OUTSIDE SOURCES / HELP: Marcus Bradley
+
+MESSAGE FOR TA GRADER: ENJOY!
